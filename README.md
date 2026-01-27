@@ -41,8 +41,3 @@ This repository contains all projects and tasks completed during my **AI Interns
 **Tech Stack:** Python, HTML, CSS, JavaScript 
 
 ---
-
-
-
-# Run the project
-python main.py  # Replace with your entry file
